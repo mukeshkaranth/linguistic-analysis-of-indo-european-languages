@@ -5,6 +5,7 @@ Project ID:    PW19SMP003
 Project Title: Linguistic Analysis of Indo-European Languages
 
 Team Members:-  
+	
 	Name: Mukesh M Karanth
 	Student ID: 01FB15ECS361
 	LinkedIn: https://www.linkedin.com/in/mukesh-m-karanth/
@@ -18,6 +19,7 @@ Team Members:-
 	LinkedIn: https://www.linkedin.com/in/sanath-b-92aab9122/
 
 Project Guide:-
+	
 	Name: Prof. Shreekanth M Prabhu
 	LinkedIn : https://www.linkedin.com/in/shreekanthprabhu/
 
